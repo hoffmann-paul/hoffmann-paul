@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there, I'm Paul 👋
 
-<!--
-**hoffmann-paul/hoffmann-paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young software engineer with a passion for building things.
 
-Here are some ideas to get you started:
+I started programming at the age of 12 — back then just HTML, CSS, and JavaScript.
+Today I'm able to work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML, CSS, JavaScript
+- 🐍 Python
+- ⚙️ C++
+- 📱 SwiftUI
+
+I also enjoy working with **Arduino Uno**, both using and programming it for small hardware projects.
+
+## A little about how I work
+
+I have ADHD, which means I often work on multiple projects in parallel — jumping between them depending on what excites me most at the moment. It's not always linear, but it keeps things creative and fun!
+
+## Let's connect
+
+Feel free to reach out or check out my projects below! Not everything is Public but check it out!
